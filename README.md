@@ -1,5 +1,6 @@
 # mass_cert
 It is a most simplest automated mass certificate generator for event certificate distribution `(Size : 1000x750)`
+It also requires Python3 installed with path setuped in your system. 
 
 ## Install 
 
